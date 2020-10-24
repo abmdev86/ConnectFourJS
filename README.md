@@ -1,6 +1,7 @@
-# Connect Four Javascript
+# Connect FourJS
 Created this game to practice OOP JS.
-
+## Installation
+ Download project files and open the .html file it will load in your browser.
 1. click start button 
 2. player one goes first.
 3. each of the two players get a turn.
